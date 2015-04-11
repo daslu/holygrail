@@ -1,4 +1,4 @@
-* Holy grail demo
+* Holy grail demo - forked for some experimenting
 
 ** What is it?
 
